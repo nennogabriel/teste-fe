@@ -17,6 +17,7 @@
 
   
   ### Extras
+  - Desenvolver em Typescript.
   - SEO ainda que genérico.
   - opção para edição de tarefas.
   - salvar as tarefas no local storage.
